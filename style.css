@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p3/2402683-noite-ceu-estrelado-e-nuvens-rosa-amanhecer-gratis-vetor.jpg);
+    background-size: cover;
+    color: #fff;
+}
+h1 {
+    background: rgba(68, 68, 109, 0.88);
+    margin: 10px 500px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 50px;
+    font-family: font1;
+    border: rgba(54, 54, 119, 0.954) solid 3px;
+}
+.cont {
+    background: rgba(54, 54, 119, 0.898);
+    border-radius: 25px;
+    max-height: 450px;
+    margin: 15px 400px;
+}
+h2 {
+    font-size: 30px;
+}
+.main {
+    padding: 5px 15px;
+    text-align: center;
+}
+input {
+    margin: 5px 10px;
+    padding: 3px 0;
+    font-size: 15px;
+    text-indent: 2px;
+    border-radius: 5px;
+}
+button {
+    font-size: 15px;
+    padding: 2px 0;
+    border-radius: 3 px;
+}
+#frase {
+    text-align: justify;
+    font-size: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-indent: 25px;
+}
+#imagem {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    padding: 20px;
+}
+#img {
+    text-align: center;
+}
+footer {
+    background: #1613137b;
+    text-align: center;
+    height: 100px;
+    margin: px 0;
+    padding: 20px 0;
+    border-top: rgba(53, 53, 118, 0.956) solid 5px;
+    border-bottom: rgba(53, 53, 118, 0.956) solid 5px;
+     
+}
+a {
+    color: #fff;
+}
